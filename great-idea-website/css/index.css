@@ -64,3 +64,30 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+/*GENERAL STYLES */
+body{
+	width:90%;
+	margin:0 auto;
+}
+section{
+	padding:4% 0;
+}
+/*CODE FOR HEADER*/
+nav{
+	display:inline-block;
+	width:80%;
+}
+nav a{
+	margin:0 5%;
+}
+a.first{
+	margin-left:0;
+}
+
+/* HOME SECTION STYLES */
+.homeContent{
+	display:inline-block;
+	width:50%;
+}
